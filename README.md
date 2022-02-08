@@ -1,14 +1,12 @@
-#SelfTaughtDev - https://selftaught-dev.com/
+
 
 Description
 
 *required skills - HTML - CSS - JS*
 
---Adobe XD For Devs--
-https://youtu.be/A-RcxjcmbB8
 
---Discord Invite--
-https://discord.gg/fj9CvCs
+
+
 
 =======================
 ===LV 1 REQUIREMENTS===
@@ -25,7 +23,7 @@ https://discord.gg/fj9CvCs
 
 -The user should be able to switch between 24 hour view and 12 hour (AM/PM) view
   by clicking either "12 Hour" or "24 Hour"
--Tablet and Mobile view should match the mockup with 95% accuracy
+-Tablet and Mobile view should match the mowith 95% accuracy
 
 =======================
 =======Extra Info======
