@@ -35,4 +35,4 @@ Useful JS for this project
 https://www.w3schools.com/jsref/met_win_settimeout.asp
 
 -----
-Please report any errors/bugs to selftdev@gmail.com
+Please report any errors/bugs to adumchimajoshua@gmail.com
